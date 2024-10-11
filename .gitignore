@@ -395,3 +395,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.vs/PrisonGameApp/FileContentIndex
+/.vs/PrisonGame/FileContentIndex

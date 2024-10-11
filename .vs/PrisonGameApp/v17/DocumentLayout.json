@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git Source\\PrisonGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|c:\\git source\\prisongame\\prisongame\\printloopedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|solutionrelative:prisongame\\printloopedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|c:\\git source\\prisongame\\prisongame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|solutionrelative:prisongame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|c:\\git source\\prisongame\\prisongame\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|solutionrelative:prisongame\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|c:\\git source\\prisongame\\prisongame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|solutionrelative:prisongame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|c:\\git source\\prisongame\\prisongame\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1FC94F1-570C-4427-B91B-A4D018F3A31B}|PrisonGame\\PrisonGame.csproj|solutionrelative:prisongame\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrintLoopedLists.cs",
+              "DocumentMoniker": "C:\\Git Source\\PrisonGame\\PrisonGame\\PrintLoopedLists.cs",
+              "RelativeDocumentMoniker": "PrisonGame\\PrintLoopedLists.cs",
+              "ToolTip": "C:\\Git Source\\PrisonGame\\PrisonGame\\PrintLoopedLists.cs",
+              "RelativeToolTip": "PrisonGame\\PrintLoopedLists.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:13:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Git Source\\PrisonGame\\PrisonGame\\Game.cs",
+              "RelativeDocumentMoniker": "PrisonGame\\Game.cs",
+              "ToolTip": "C:\\Git Source\\PrisonGame\\PrisonGame\\Game.cs",
+              "RelativeToolTip": "PrisonGame\\Game.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAHkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:25:06.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Git Source\\PrisonGame\\PrisonGame\\Box.cs",
+              "RelativeDocumentMoniker": "PrisonGame\\Box.cs",
+              "ToolTip": "C:\\Git Source\\PrisonGame\\PrisonGame\\Box.cs",
+              "RelativeToolTip": "PrisonGame\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:22:49.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prisoner.cs",
+              "DocumentMoniker": "C:\\Git Source\\PrisonGame\\PrisonGame\\Prisoner.cs",
+              "RelativeDocumentMoniker": "PrisonGame\\Prisoner.cs",
+              "ToolTip": "C:\\Git Source\\PrisonGame\\PrisonGame\\Prisoner.cs",
+              "RelativeToolTip": "PrisonGame\\Prisoner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:22:34.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git Source\\PrisonGame\\PrisonGame\\Program.cs",
+              "RelativeDocumentMoniker": "PrisonGame\\Program.cs",
+              "ToolTip": "C:\\Git Source\\PrisonGame\\PrisonGame\\Program.cs",
+              "RelativeToolTip": "PrisonGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:19:29.611Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
