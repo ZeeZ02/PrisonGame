@@ -52,6 +52,12 @@ namespace PrisonGame
 
             //TODO make somehting cool before return. 
 
+            //make function check for whitespace
+            //
+            /// 
+            //*
+
+
             return loopList;
 
         }
